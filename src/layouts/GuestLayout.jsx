@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import HeroSection from "../components/HeroSection";
 import AboutSection from "../components/AboutSection";
 import FeaturedProducts from "../components/FeaturedProducts";
-import Testimonials from "../components/Testimonials";
+import Testimonials from '../components/Testimonials'; // atau dengan jalur relatif yang benar
 import Footer from "../components/Footer";
 import BlogPosts from "../components/BlogPosts";
 import NewArrivals from "../components/NewArrivals";
