@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Indomie Goreng Spesial",
     "price": 0.2,
-    "image": "/public/img/Goreng/Indomie Goreng Spesial.png",
+    "image": "/img/Goreng/Indomie Goreng Spesial.png",
     "isNew": true,
     "category": "Goreng",
     "description": "Indomie Goreng Original dengan rasa gurih yang khas.",
