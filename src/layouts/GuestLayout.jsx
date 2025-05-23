@@ -2,8 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import HeroSection from "../components/HeroSection";
 import AboutSection from "../components/AboutSection";
-import FeaturedProducts from "../components/FeaturedProducts";
-import Testimonials from '../components/Testimonials'; // atau dengan jalur relatif yang benar
+import FeaturedProducts from "../components/FeaturedProducts";// atau dengan jalur relatif yang benar
 import Footer from "../components/Footer";
 import BlogPosts from "../components/BlogPosts";
 import NewArrivals from "../components/NewArrivals";
@@ -42,7 +41,7 @@ export default function GuestLayout({ children }) {
         <section className="section bg-gray-50 py-12">
           <div className="container mx-auto">
             <AboutSection />
-            <Testimonials />
+            {/* <Testimonials /> */}
             <BlogPosts />
           </div>
         </section>
